@@ -4,7 +4,7 @@ A UAV system for water depth measurement using ultrasonic sensors and LoRa commu
 
 ## Features
 - Real-time data transmission to ground station via LoRa
-- Data analysis and visualization using Blynk IoT cloud
+- Data analysis and visualization using Blynk IoT cloud platform
 
 ## Getting Started
 ### Prerequisites
